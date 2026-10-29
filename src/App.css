@@ -1,0 +1,27 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: skyblue;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 36px;
+  text-align: center;
+  padding: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
